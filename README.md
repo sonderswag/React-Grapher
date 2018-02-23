@@ -1,8 +1,8 @@
-#Description
+# Description
 
 This is a basic 3d grapher application I built to test out using React, Redux, and Express together.
 
-#TODO
+# TODO
 
 - √ Save collection patterns
 - √ Load Collection Patters
@@ -35,7 +35,7 @@ This is a basic 3d grapher application I built to test out using React, Redux, a
 - Make origin a global parameter that can be seen by all programs
     - Can get it from plotly, but should learn how to make a global parameter
 
-#Pictures
+# Pictures
 ![Home](./Images/home.png)
 
 ![mushroom](./Images/mushroom.png)
@@ -43,7 +43,7 @@ This is a basic 3d grapher application I built to test out using React, Redux, a
 ![beam](./Images/beam.png)
 
 
-#To run the code...
+# To run the code...
 - Go to the file directory in a terminal
 - go to `react-frontend` folder
 - `npm start`
