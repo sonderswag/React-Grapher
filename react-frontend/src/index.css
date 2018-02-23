@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-Family: HelveticaNeue-Light, Helvetica, Arial, sans-serif;
+}
+
+
+.Content-Box {
+  position: fixed;
+  display: block;
+  width: 100%;
+  left: 190px;
+  border-top: 2px solid lightgray;
+}
+
+.Content {
+  overflow: auto;
+}
+
+#plot {
+  position: fixed;
+  display: block;
+
+  top:50px;
+  right:0;
+
+}
